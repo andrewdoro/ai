@@ -1,5 +1,11 @@
 # ai
 
+## 6.0.231
+
+### Patch Changes
+
+- 926f5a0: Allow UI message chunks to include fields added by newer server versions.
+
 ## 6.0.230
 
 ### Patch Changes
